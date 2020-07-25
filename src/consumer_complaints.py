@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
     author: Jie Hu
     email: tojiehu@gmail.com
